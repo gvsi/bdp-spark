@@ -1,1 +1,8 @@
 .DS_Store
+*.class
+.idea
+bdp-spark.iml
+*.lst
+main.iml
+pom.properties
+*.crc
