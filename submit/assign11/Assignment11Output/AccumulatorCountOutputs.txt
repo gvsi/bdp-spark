@@ -1,0 +1,5 @@
+Total number of unique events before filtering: 9836
+Total number of unique events after filtering: 6059
+Total number of sessions: 1172
+Total number of SHOWER sessions: 799
+Total number of filtered SHOWER sessions: 710
